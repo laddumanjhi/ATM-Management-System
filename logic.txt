@@ -1,0 +1,11 @@
+                    ATM management system 
+start  
+    generate a randam number (its called id )
+        enter the info 
+          set a pin
+    exit
+        enter the pin 
+            amount store 
+            check 
+            vidrol
+end
